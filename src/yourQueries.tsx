@@ -1,4 +1,4 @@
-// Define the GET_USER_TODOS query in your 'yourQueries' file
+
 
 import { gql } from '@apollo/client';
 
